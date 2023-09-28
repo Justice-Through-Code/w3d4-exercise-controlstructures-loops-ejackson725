@@ -105,7 +105,7 @@ def temp_by_day_continuous():
             break
 
 
-
+#colaborated with rico and ulises
 
 
 # temp_by_day_continuous()
